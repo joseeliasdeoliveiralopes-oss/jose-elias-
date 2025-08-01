@@ -52,8 +52,19 @@
 
 ## 🌐 Contatos Cibernéticos
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:joseeeliasdeoliveiralopes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
-    <img src="htt
+  <a href="https://www.linkedin.com/in/josé-elias-bb4b1528b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer"/>
+</p>
